@@ -1,0 +1,5 @@
+los conocimientos de la unidad 1 referentes a git y github que considero mas importantes son:
+por el apartado de git es el control de versiones mediante comiteos, ya que nos permite tener
+un seguimiento claro y conciso de nuestro proceso de elaboracion de proyectos.
+por el apartado de github es el apartado de repositorios mediante los cuales podemos documentar y
+montar nuestros proyectos teniendo respaldo de todo.                                                                                                                 
