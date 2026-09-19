@@ -3,3 +3,8 @@ por el apartado de git es el control de versiones mediante comiteos, ya que nos 
 un seguimiento claro y conciso de nuestro proceso de elaboracion de proyectos.
 por el apartado de github es el apartado de repositorios mediante los cuales podemos documentar y
 montar nuestros proyectos teniendo respaldo de todo.                                                                                                                 
+
+lo que aprendi durante el quiz:
+durante el quiz reforce mis conocimientos sobre control de versiones, creacion de repos en github
+mejor manejo de la terminal mediante el uso de abreviaciones, consolide la creacion de archivos y repositorios 
+mediante mkdir, touch y nano; y aprendi a moverme de manera mas eficiente sin mouse.
